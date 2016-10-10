@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Zombie</string>
+    <string name="intro">Welcome to the World of Zombie Survival RPG</string>
+    <string name="goHome">Please Get to the Place You Rest Your Head Before Continue</string>
+    <string name="gps">We Need To Set Your GPS Location to Prepare Your Home Base</string>
+    <string name="gettingGPS">Getting GPS Coordinates</string>
+    <string name="oneYear">It Is Currently One Year After the First Signs of The Zombie Apocalypse. You have survived,
+        just scrapping by.</string>
+    <string name="home">You have just arrived in a new town, setting up shelter in a bombed out house. It feels oddly familiar. You wish you could remember why.</string>
+    <string name="continueButton">Select the Continue Button Below when You Are Ready To Establish Your Home Base.</string>
+</resources>
