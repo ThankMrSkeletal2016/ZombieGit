@@ -13,4 +13,7 @@
     <string name="staticLat">33.5376098</string>
     <string name="latHere">Lat Goes Here</string>
     <string name="longHere">Long goes Here</string>
+    <string name="homeIntro">Press the Button To Get the Coordinates</string>
+    <string name="homeEstablished">Your home base is now secured. You now have a place to settle down in this area.</string>
+    <string name="leaveText">Click the Leave Home button to continute out into the world</string>
 </resources>

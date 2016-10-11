@@ -3,138 +3,129 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\Ian\Desktop\pdsWorkspace\Zombie\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="C:\Users\Ian\Desktop\pdsWorkspace\Zombie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_13177d634e81ac720be5ac404febddd83e38f8fc\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Ian\Desktop\pdsWorkspace\Zombie\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="C:\Users\Ian\Desktop\pdsWorkspace\Zombie\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_cf46c00f66ac335b2b3564c987f28c99b961dad2\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Ian\Desktop\pdsWorkspace\Zombie\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="C:\Users\Ian\Desktop\pdsWorkspace\Zombie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_b12b94d2c506f5342c8ed23784cf4034749bdbc8\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Ian\Desktop\pdsWorkspace\Zombie\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="b42d0ac056d64642735538e1f776ade59a88f13b">
-        <dex dex="C:\Users\Ian\Desktop\pdsWorkspace\Zombie\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_bb22b8b65c2bfeb929dc707c990f8e9a815d9b2c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Ian\Desktop\pdsWorkspace\Zombie\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="C:\Users\Ian\Desktop\pdsWorkspace\Zombie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_3ff1a4d84df0d54396de0a92a342786df80511b9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Ian\Desktop\pdsWorkspace\Zombie\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="C:\Users\Ian\Desktop\pdsWorkspace\Zombie\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b7f933b68c80ec6a1eb1f41591a2e66d9159bb11\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Ian\Desktop\pdsWorkspace\Zombie\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="C:\Users\Ian\Desktop\pdsWorkspace\Zombie\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_2efd12418d28fe54fd46e5a0489adf07547571f1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Ian\Desktop\pdsWorkspace\Zombie\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="98577ec53e0117c9690d5f641da7043c1882873d">
-        <dex dex="C:\Users\Ian\Desktop\pdsWorkspace\Zombie\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_80afddb65f18c122c317a97a0e653b4ef2d5777b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Ian\Desktop\pdsWorkspace\Zombie\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="C:\Users\Ian\Desktop\pdsWorkspace\Zombie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_ab94932738349297015bbad824b6fb7a811af50c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Ian\Desktop\pdsWorkspace\Zombie\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="C:\Users\Ian\Desktop\pdsWorkspace\Zombie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_c53b9d77ff2f66cf7e8b33e4763ca35dec3b3abb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Ian\Desktop\pdsWorkspace\Zombie\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="C:\Users\Ian\Desktop\pdsWorkspace\Zombie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_2e45465825a2ec8d9d7b418849d06551261e1bc5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Ian\Desktop\pdsWorkspace\Zombie\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="C:\Users\Ian\Desktop\pdsWorkspace\Zombie\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e79ba516ea4c934d003b5647d1cebee3c452876e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Ian\Desktop\pdsWorkspace\Zombie\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jar="C:\Users\Ian\Desktop\ZombieGit\Zombie\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\Ian\Desktop\pdsWorkspace\Zombie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_8707bae61b3dff5814c0417844d8f9b774dab628\classes.dex" />
+        <dex dex="C:\Users\Ian\Desktop\ZombieGit\Zombie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_b7991d5c65571ae56978cb3982c80835724ae921\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Ian\Desktop\pdsWorkspace\Zombie\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jar="C:\Users\Ian\Desktop\ZombieGit\Zombie\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="C:\Users\Ian\Desktop\pdsWorkspace\Zombie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_8bcee5a125f707c6cca5ce641bf85500dc63e508\classes.dex" />
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Ian\Desktop\ZombieGit\Zombie\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_cbb1d15c9c83fbc0494b0e95c6117b0e8b22bbd4\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Ian\Desktop\pdsWorkspace\Zombie\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="C:\Users\Ian\Desktop\ZombieGit\Zombie\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Ian\Desktop\ZombieGit\Zombie\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6b47473ef4e70cbf16a67fe0364db66ef0eacb78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ian\Desktop\ZombieGit\Zombie\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Ian\Desktop\ZombieGit\Zombie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_2b8aec962af1f3499171f8190c47e782554c871a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ian\Desktop\ZombieGit\Zombie\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="be54b6e85a8d98d9c7bd19a493bdf1f56c68a2ff">
+        <dex dex="C:\Users\Ian\Desktop\ZombieGit\Zombie\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f1231a727d7b3f838b49eeb14b9429285bdae6b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ian\Desktop\ZombieGit\Zombie\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Ian\Desktop\ZombieGit\Zombie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_9535734ed446f3a98b7a9ed7a7c07b462b7cd09f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ian\Desktop\ZombieGit\Zombie\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="C:\Users\Ian\Desktop\pdsWorkspace\Zombie\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_96af9e897551956ff43ce686fa1e5646f2889ef8\classes.dex" />
+        <dex dex="C:\Users\Ian\Desktop\ZombieGit\Zombie\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_38e946df73e225ed5bf809a61925ebfa51869b32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ian\Desktop\ZombieGit\Zombie\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Ian\Desktop\ZombieGit\Zombie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_ec86e93a83bae4c643481f93e8b1336ceb163cd2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ian\Desktop\ZombieGit\Zombie\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Ian\Desktop\ZombieGit\Zombie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_2d091ce1831df1fcbdff68a122142aa1a349be97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ian\Desktop\ZombieGit\Zombie\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Ian\Desktop\ZombieGit\Zombie\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4f82eb122cd5bef4c355f6915b07c69d1b2f88cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ian\Desktop\ZombieGit\Zombie\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6279b4ec868cebc8c40d029e0ffde119e1686406">
+        <dex dex="C:\Users\Ian\Desktop\ZombieGit\Zombie\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c57e87efa8c6597879ba4c279a8eb601b17f1ef1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ian\Desktop\ZombieGit\Zombie\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Ian\Desktop\ZombieGit\Zombie\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_17d233e484c62440c98776d7fcb6d84c073e045f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ian\Desktop\ZombieGit\Zombie\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Ian\Desktop\ZombieGit\Zombie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_286f852551552695279fdeb0f03d6a3e40bcb4e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ian\Desktop\ZombieGit\Zombie\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Ian\Desktop\ZombieGit\Zombie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_ed04f3ca743d2ec3b8dc24a8a02c9310ca438c51\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -143,16 +134,25 @@
         optimize="true"
         revision="24.0.3"
         sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="C:\Users\Ian\Desktop\pdsWorkspace\Zombie\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_c8264b89bc2312a2ca71936dfe4296a8d2e9768b\classes.dex" />
+        <dex dex="C:\Users\Ian\Desktop\ZombieGit\Zombie\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_c8264b89bc2312a2ca71936dfe4296a8d2e9768b\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Ian\Desktop\pdsWorkspace\Zombie\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jar="C:\Users\Ian\Desktop\ZombieGit\Zombie\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="C:\Users\Ian\Desktop\pdsWorkspace\Zombie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_e51517f70e34067f2095cf576754d984c173e073\classes.dex" />
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Ian\Desktop\ZombieGit\Zombie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_b815d712cef276b6c639ff5ce7872a37ea93a94f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ian\Desktop\ZombieGit\Zombie\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Ian\Desktop\ZombieGit\Zombie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_f1311caf93bc3d6b307ea5e00c7064d15e41e317\classes.dex" />
     </item>
 
 </items>

@@ -100,22 +100,4 @@
         android:layout_below="@+id/continueText"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="12dp" />
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textColor="#FFFFFF"
-        android:id="@+id/lon"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true" />
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textColor="#FFFFFF"
-        android:id="@+id/lat"
-        android:layout_alignTop="@+id/linearLayout"
-        android:layout_alignLeft="@+id/intro"
-        android:layout_alignStart="@+id/intro" />
 </RelativeLayout>
